@@ -1,0 +1,12 @@
+*.out
+*.mat
+*.npy
+data/*
+data/Cleaned
+data/data_preprocessed_matlab
+distortions.pages
+Compression_results.png
+tmp_0_32/*
+tmp/*
+tmp_multi/*
+tmp_single/*
